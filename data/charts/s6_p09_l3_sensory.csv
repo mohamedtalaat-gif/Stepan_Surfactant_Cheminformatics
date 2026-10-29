@@ -1,0 +1,7 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s6_p09_l3_sensory,3719-58-A with STEPAN-MILD L3 (difference from B),Wet detangling,0.71,raster,,raster
+s6_p09_l3_sensory,3719-58-A with STEPAN-MILD L3 (difference from B),Wet combing,1.95,raster,,raster
+s6_p09_l3_sensory,3719-58-A with STEPAN-MILD L3 (difference from B),Dry combing,1.48,raster,,raster
+s6_p09_l3_sensory,3719-58-B without STEPAN-MILD L3 (reference),Wet detangling,0,raster,,raster
+s6_p09_l3_sensory,3719-58-B without STEPAN-MILD L3 (reference),Wet combing,0,raster,,raster
+s6_p09_l3_sensory,3719-58-B without STEPAN-MILD L3 (reference),Dry combing,0,raster,,raster

@@ -1,0 +1,35 @@
+formula_id,name,deck,page,application,reference_no,total_actives_pct,ph,viscosity_cp,viscosity_method,viscosity_range,appearance,notes
+s3_handwash,"Hand Wash, Made Easy",S3,12,hand wash,,5% actives (14% blend),5.3 as is,1690,Brookfield LV1/V12 at 25 C,,Transparent thin gel,Super easy-to-make mild sulfate-free hand wash; ISO 16128 NOC 0.97 (S3 p07)
+s3_showergel,"Shower Gel, Made Easy",S3,13,shower gel,,10% actives (27% blend),5.4 as is,4020,Brookfield LV2/V30 at 25 C,,Transparent thin gel,ISO 16128 NOC 0.95 (S3 p07)
+s3_shampoo,"Shampoo, Made Easy (formulation No. 1541)",S3,14,shampoo,1541,14% actives (39% blend),5.4 as is,13200,Brookfield LV2/V12 at 25 C,,Transparent thin gel,ISO 16128 NOC 0.92 (S3 p07)
+s1_base_1610,Boundless AOS base (formulation 1610),S1,24,base,1610,,,45000-75000,,"45,000 to 75,000 cPs","Hazy to transparent, viscous liquid",BIO-TERGE AS-40 HP and AMPHOSOL HCG-HP with water
+s1_eco_handsoap,Economy hand soap,S1,25,prototype on the Boundless base,5388-175-102,7.0,,4000,,"3,000 to 5,000 cPs",,Feel: hollow and tacky upon drying. Foam: light and fluffy.
+s1_prestige_handsoap,Prestige hand soap,S1,26,prototype on the Boundless base,5388-175-103,12.0,,7500,,"5,500 to 9,500 cPs",,"Feel: longer rinseability, smooth after-feel. Foam: lots of flash foam and volume, large bubble structures, smooth lather."
+s1_eco_bodywash,Economy body wash,S1,27,prototype on the Boundless base,5388-175-104,10.0,,7000,,"5,250 to 8,750 cPs",,Feel: hollow and moisturising. Foam: light and fluffy.
+s1_prestige_bodywash,Prestige body wash,S1,28,prototype on the Boundless base,5388-175-105,15.0,,10000,,"7,000 to 13,000 cPs",,"Feel: clean and smooth. Foam: lots of flash foam and volume, large bubble structures."
+s1_eco_shampoo,Economy shampoo,S1,29,prototype on the Boundless base,5388-175-106,10.0,,5000,,"3,000 to 7,000 cPs",,Feel: hollow and moisturising. Foam: light and fluffy.
+s1_prestige_shampoo,Prestige shampoo,S1,30,prototype on the Boundless base,5388-175-107,15.0,,2500,,"2,000 to 5,000 cPs",,"Feel: clean and smooth, moisturising. Foam: dense and creamy."
+s1_chassis_cmea,Chassis with cocamide MEA + PEG-40 HCO,S1,20,chassis comparison,,15 (surfactant actives level),,,,,,Right-hand chart shows viscosity against NaCl; reference chassis
+s1_chassis_peg40,Chassis with PEG-40 HCO,S1,20,chassis comparison,,15 (surfactant actives level),,,,,,Cocamide MEA removed
+s1_chassis_ninol,Chassis with NINOL CAA,S1,20,chassis comparison,,13 (surfactant actives level),,,,,,CMEA and PEG-40 HCO replaced by NINOL CAA with an actives reduction
+s2_1443,AOS-based concentrated shower gel (formulation 1443),S2,22,shower gel concentrate,1443,,,,,,Fluid concentrate,Dilute 1:3 with tap water (100 mL concentrate gives 400 mL shower gel). NOC 0.86 as a concentrate and 0.96 when diluted 1:3 (ISO 16128). Also shown on S1 p37.
+s2_1363,Gentle cleansing body wash (formulation 1363),S2,23,body wash,1363,,,,,,,Uses STEPAN-MILD L3 as a natural moisturising agent in place of silicones
+s2_1487,Shower Caresse (formulation 1487),S2,24,shower gel,1487,,,,,,,Foam from LATHANOL LAL COARSE/MB; skin feel from STEPAN-MILD GCC-FL/MB
+s2_1501,Silky foaming hand soap (formulation 1501),S2,25,foaming hand soap,1501,5.5,,water-thin,,,,"Sulfate-free, EO-free and nitrosamine-free; made without heat; designed for a foaming dispenser"
+s2_1520,Powder milk foam (formulation 1520),S2,26,powder,1520,,,,,,,Waterless soap powder for hand washing
+s2_1488,Choco Delight powder shampoo (formulation 1488),S2,27,powder shampoo,1488,,,,,,,"Waterless; sulfate-, silicone- and EO-free; usable as a powder or mixed with water to a mousse. Also shown on S1 p37."
+s2_1374,Sparkli-Bubbli-boo powdered hair and body wash (formulation 1374),S2,28,powder wash,1374,,,,,,,Waterless powder
+s4_morning_caresse,Morning Caresse facial cleanser,S4,5,facial cleanser,,,5.5 (adjusted),,,,,Stability: 1 month at 45 C. The slide also shows a Zein score column.
+s4_lotus_night,Lotus Night sulfate-free body wash,S4,13,body wash,,,below 5.5,3000,"LV2, v60, 20 C (about)",,Crystal clear at room temperature,Stability: 1 month at 5 C and 45 C
+s4_1605,Sulfate-free colour care shampoo (formulation 1605),S4,19,shampoo,1605,,,,,,,Cleanses without damage on dyed hair; emollients STEPAN-MILD L3-G/MB and GCC/MB add suppleness and foam creaminess
+s4_anionic_free,Very mild anionic-free chassis,S4,23,shampoo chassis,,,below 5.5,,,,,Next-generation colour care base; dE 5.45 in the S4 p25 test
+s4_cleansing_conditioner,Cleansing conditioner with colour care benefits,S4;S6,24;11,cleansing conditioner,,,below 4.5,,,,,The same formula appears on S4 p24 and S6 p11; dE 3.06 in the S4 p25 test
+s6_conditioner,Hair conditioner with ester quat and boosters,S6,10,conditioner,,,4,,,,,Boosters are used at up to 1% each
+s6_halfhead_chassis,Half-head test chassis (PA 85-G or BTAC),S6,5,conditioner,,,,,,,,"Three panellists, half-head test; 2% actives of Stepanquat PA85G (85%) or BTAC"
+s7_chassis_claims,Standardised conditioner chassis for claim substantiation,S7,14,conditioner chassis,,2 (conditioning active),"3.5 to 4.5 (final, adjusted)",,,,,Smoothness test chassis has no HEC and 1.35% active conditioning agent
+s7_chassis_smooth,Smoothness and curl-control chassis,S7,17,conditioner chassis,,1.35 (conditioning active),,,,,,Used for the 2B-type wavy hair curl control test
+s7_conditioner,Making a conditioner (STEPANQUAT Soleil),S7,24,conditioner,,,2.9,32100,Brookfield LV2 V3 at 20 C,,,STEPANQUAT Soleil at 2% with 5% cetearyl alcohol
+s7_mask,Making a hair mask (STEPANQUAT Soleil),S7,25,hair mask,,,2.8,37800,Brookfield LV2 V3 at 20 C,,,Sodium benzoate and potassium sorbate strongly reduce viscosity and are not recommended for hair masks
+s7_2in1,Making a 2-in-1 shampoo,S7,26,2-in-1 shampoo,,,4.5,28500,Brookfield LV3 V12 at 20 C,,,HEC is recommended for compatibility with cationics and a stabilising network; the anionic to CAPB ratio and the actives level are key for thickening and stability; keep air out because it stays trapped
+s7_serum,Bear to Beard conditioning serum,S7,27,beard serum,,,,,,,Clear green-olive to brown oil,"Made at room temperature with gentle mixing; NEOBEE M-20 alternatives: NEOBEE M-5, isopropyl myristate, isopropyl palmitate, dicaprylyl carbonate, propylene glycol"
+s7_solidbar,Abracada'Bar solid conditioner,S7,28,solid conditioner bar,,,3.5 to 4 (adjusted with lactic acid),,,,"White, smooth solid",Melt phase A at 80 C; cool to 60 C after adding the water-bearing decyl glucoside; pour into silicone moulds. The printed percentages add up to 101.0.

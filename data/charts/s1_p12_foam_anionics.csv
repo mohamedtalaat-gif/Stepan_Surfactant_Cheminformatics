@@ -1,0 +1,7 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s1_p12_foam_anionics,Foam volume (mL),SLES-2,844.5818,geometry,,
+s1_p12_foam_anionics,Foam volume (mL),BIO-TERGE AS-40 HASB,904.2415,geometry,,
+s1_p12_foam_anionics,Foam volume (mL),ALPHA-STEP PC-48,579.693,geometry,,
+s1_p12_foam_anionics,Half life (s),SLES-2,265.9216,geometry,,
+s1_p12_foam_anionics,Half life (s),BIO-TERGE AS-40 HASB,299.3338,geometry,,
+s1_p12_foam_anionics,Half life (s),ALPHA-STEP PC-48,165.3868,geometry,,

@@ -1,0 +1,20 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s1_p20_ninol_visc,"With NINOL CAA (chassis 36% SLES, 10% CAPB, 1% NINOL CAA)",0.1,918.2885,raster,,raster
+s1_p20_ninol_visc,"With NINOL CAA (chassis 36% SLES, 10% CAPB, 1% NINOL CAA)",0.2,1845.5114,raster,,raster
+s1_p20_ninol_visc,"With NINOL CAA (chassis 36% SLES, 10% CAPB, 1% NINOL CAA)",0.3,2836.9458,raster,,raster
+s1_p20_ninol_visc,"With NINOL CAA (chassis 36% SLES, 10% CAPB, 1% NINOL CAA)",0.4,3500.3033,raster,,raster
+s1_p20_ninol_visc,"With NINOL CAA (chassis 36% SLES, 10% CAPB, 1% NINOL CAA)",0.5,3710.0229,raster,,raster
+s1_p20_ninol_visc,"With PEG-40 hydrogenated castor oil (chassis 40% SLES, 16.7% CAPB, 1% PEG-40 HCO)",0,451.8259,raster,,raster
+s1_p20_ninol_visc,"With PEG-40 hydrogenated castor oil (chassis 40% SLES, 16.7% CAPB, 1% PEG-40 HCO)",0.1,832.1295,raster,,raster
+s1_p20_ninol_visc,"With PEG-40 hydrogenated castor oil (chassis 40% SLES, 16.7% CAPB, 1% PEG-40 HCO)",0.2,1014.9142,raster,,raster
+s1_p20_ninol_visc,"With PEG-40 hydrogenated castor oil (chassis 40% SLES, 16.7% CAPB, 1% PEG-40 HCO)",0.3,1245.7531,raster,,raster
+s1_p20_ninol_visc,"With PEG-40 hydrogenated castor oil (chassis 40% SLES, 16.7% CAPB, 1% PEG-40 HCO)",0.4,1475.8691,raster,,raster
+s1_p20_ninol_visc,"With PEG-40 hydrogenated castor oil (chassis 40% SLES, 16.7% CAPB, 1% PEG-40 HCO)",0.5,1792.539,raster,,raster
+s1_p20_ninol_visc,"With PEG-40 hydrogenated castor oil (chassis 40% SLES, 16.7% CAPB, 1% PEG-40 HCO)",0.6,2139.8316,raster,,raster
+s1_p20_ninol_visc,"With cocamide MEA + PEG-40 HCO (chassis 40% SLES, 13.3% CAPB, 1% CMEA, 1% PEG-40 HCO)",0,177.1626,raster,,raster
+s1_p20_ninol_visc,"With cocamide MEA + PEG-40 HCO (chassis 40% SLES, 13.3% CAPB, 1% CMEA, 1% PEG-40 HCO)",0.1,337.4105,raster,,raster
+s1_p20_ninol_visc,"With cocamide MEA + PEG-40 HCO (chassis 40% SLES, 13.3% CAPB, 1% CMEA, 1% PEG-40 HCO)",0.2,443.0247,raster,,raster
+s1_p20_ninol_visc,"With cocamide MEA + PEG-40 HCO (chassis 40% SLES, 13.3% CAPB, 1% CMEA, 1% PEG-40 HCO)",0.3,755.5139,raster,,raster
+s1_p20_ninol_visc,"With cocamide MEA + PEG-40 HCO (chassis 40% SLES, 13.3% CAPB, 1% CMEA, 1% PEG-40 HCO)",0.4,1129.5168,raster,,raster
+s1_p20_ninol_visc,"With cocamide MEA + PEG-40 HCO (chassis 40% SLES, 13.3% CAPB, 1% CMEA, 1% PEG-40 HCO)",0.5,1444.6336,raster,,raster
+s1_p20_ninol_visc,"With cocamide MEA + PEG-40 HCO (chassis 40% SLES, 13.3% CAPB, 1% CMEA, 1% PEG-40 HCO)",0.6,1786.6716,raster,,raster

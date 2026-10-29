@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.venv/
+.tools/
+*.egg-info/
+*.pyc
+.DS_Store
+.marimo.toml
+.lab.pid
+.lab.port
+.lab.log
+.lab.err.log

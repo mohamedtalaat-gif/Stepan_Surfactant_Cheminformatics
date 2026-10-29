@@ -1,0 +1,17 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s7_p23_viscosity_cetearyl,BTAC,2,443.459,raster,,raster
+s7_p23_viscosity_cetearyl,BTAC,3,1552.1064,raster,,raster
+s7_p23_viscosity_cetearyl,BTAC,4,63858.0931,raster,,raster
+s7_p23_viscosity_cetearyl,BTAC,5,100000.0,raster,,raster
+s7_p23_viscosity_cetearyl,STEPANQUAT Soleil,2,24611.9734,raster,,raster
+s7_p23_viscosity_cetearyl,STEPANQUAT Soleil,3,34146.3415,raster,,raster
+s7_p23_viscosity_cetearyl,STEPANQUAT Soleil,4,41685.1441,raster,,raster
+s7_p23_viscosity_cetearyl,STEPANQUAT Soleil,5,62527.7162,raster,,raster
+s7_p23_viscosity_cetearyl,EQ B (dipalmitoylethyl hydroxyethylammonium methosulfate),2,11308.204,raster,,raster
+s7_p23_viscosity_cetearyl,EQ B (dipalmitoylethyl hydroxyethylammonium methosulfate),3,19955.6541,raster,,raster
+s7_p23_viscosity_cetearyl,EQ B (dipalmitoylethyl hydroxyethylammonium methosulfate),4,23946.7849,raster,,raster
+s7_p23_viscosity_cetearyl,EQ B (dipalmitoylethyl hydroxyethylammonium methosulfate),5,66075.388,raster,,raster
+s7_p23_viscosity_cetearyl,1.5% BTAC + 0.5% CETAC,2,0,raster,,raster
+s7_p23_viscosity_cetearyl,1.5% BTAC + 0.5% CETAC,3,2660.7539,raster,,raster
+s7_p23_viscosity_cetearyl,1.5% BTAC + 0.5% CETAC,4,4878.0488,raster,,raster
+s7_p23_viscosity_cetearyl,1.5% BTAC + 0.5% CETAC,5,17294.9002,raster,,raster

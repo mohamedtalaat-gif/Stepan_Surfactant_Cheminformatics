@@ -1,0 +1,7 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s3_p09_foam,Foam volume (mL),"SLES/CAPB (Benchmark 2, sulfate-based shower gel)",161.2004,geometry,,
+s3_p09_foam,Foam volume (mL),STEPANBLEND ASF/MB,185.1827,geometry,,
+s3_p09_foam,Half life (s),"SLES/CAPB (Benchmark 2, sulfate-based shower gel)",509.477,geometry,,
+s3_p09_foam,Half life (s),STEPANBLEND ASF/MB,509.477,geometry,,
+s3_p09_foam,Median bubble radius (um),"SLES/CAPB (Benchmark 2, sulfate-based shower gel)",74,printed,,
+s3_p09_foam,Median bubble radius (um),STEPANBLEND ASF/MB,95,printed,,

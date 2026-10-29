@@ -1,0 +1,38 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "stepan-surfactant-chemistry-cheminformatics"
+version = "1.0.0"
+description = "The surfactants and conditioning actives of the Stepan personal care seminar of October 2026 as structures, physical chemistry, formulation arithmetic and molecular dynamics: a cheminformatics dry lab with every chart re-plotted from the slides."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Muhammad Talaat" }]
+dependencies = [
+  "marimo>=0.19.0",
+  "numpy>=1.26",
+  "scipy>=1.11",
+  "pandas>=2.1",
+  "altair>=5.2",
+  "rdkit>=2024.3.1",
+  # no wheel exists for Windows on ARM; the lab then shows the stored simulation results and cannot run a new one
+  "openmm>=8.1; sys_platform != 'win32' or platform_machine != 'ARM64'",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "ruff>=0.5", "pymupdf>=1.24"]
+capture = ["pymupdf>=1.24", "pillow>=10.0"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/stepan_lab"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 110
+target-version = "py310"
+extend-exclude = ["notebooks"]

@@ -1,0 +1,6 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s7_p30_gcc_tangles_shine,Dry combing peak load (gmf),Shampoo,266.7632,geometry,,
+s7_p30_gcc_tangles_shine,Dry combing peak load (gmf),Shampoo with STEPAN-MILD GCC/MB,238.2749,geometry,,
+s7_p30_gcc_tangles_shine,Dry combing peak load (gmf),Shampoo with STEPAN-MILD GCC-FL/MB,207.4609,geometry,,
+s7_p30_gcc_tangles_shine,Shine change (%),Shampoo with STEPAN-MILD GCC/MB,7.7187,geometry,,
+s7_p30_gcc_tangles_shine,Shine change (%),Shampoo with STEPAN-MILD GCC-FL/MB,10.8699,geometry,,

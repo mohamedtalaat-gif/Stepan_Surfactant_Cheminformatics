@@ -1,0 +1,5 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s7_p31_gcc_frizz_volume,Frizz reduction (%),Shampoo with STEPAN-MILD GCC/MB,18.4099,geometry,,
+s7_p31_gcc_frizz_volume,Frizz reduction (%),Shampoo with STEPAN-MILD GCC-FL/MB,22.1573,geometry,,
+s7_p31_gcc_frizz_volume,Volume change (%),Shampoo with STEPAN-MILD GCC/MB,-19.9472,geometry,,
+s7_p31_gcc_frizz_volume,Volume change (%),Shampoo with STEPAN-MILD GCC-FL/MB,25.5351,geometry,,

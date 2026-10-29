@@ -1,0 +1,9 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s1_p16_betaine_foam,Foam volume (mL),SLES-2,844.567,geometry,,
+s1_p16_betaine_foam,Foam volume (mL),AMPHOSOL DM/MB,669.1973,geometry,,
+s1_p16_betaine_foam,Foam volume (mL),AMPHOSOL CG-UN,419.6662,geometry,,
+s1_p16_betaine_foam,Foam volume (mL),AMPHOSOL CDB-HP-E,379.5319,geometry,,
+s1_p16_betaine_foam,Half life (s),SLES-2,265.1862,geometry,,
+s1_p16_betaine_foam,Half life (s),AMPHOSOL DM/MB,126.5059,geometry,,
+s1_p16_betaine_foam,Half life (s),AMPHOSOL CG-UN,94.6705,geometry,,
+s1_p16_betaine_foam,Half life (s),AMPHOSOL CDB-HP-E,43.6467,geometry,,

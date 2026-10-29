@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Stepan Surfactant Chemistry: a Cheminformatics Dry Lab"
+version: 1.0.0
+date-released: 2026-10-29
+abstract: "Structures, physical chemistry and formulation arithmetic built on the Stepan personal-care seminar decks: 164 slides recorded, 40 charts rebuilt from the geometry of the slides, 34 formulas transcribed with their pages, and 27 surfactant structures, in marimo notebooks that run in the browser."
+keywords:
+  - surfactants
+  - ester quats
+  - personal care
+  - hair care
+  - surfactants
+  - sulfate-free formulation
+  - cheminformatics
+  - reproducible research
+license: MIT
+authors:
+  - family-names: Talaat
+    given-names: Muhammad
+    affiliation: "Faculty of Pharmacy, Ain Shams University"
+    orcid: "https://orcid.org/0000-0002-9171-437X"

@@ -1,0 +1,7 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s4_p20_fade_prototype,dE,Market leader,6.63,printed,6.6333,
+s4_p20_fade_prototype,dE error bar half-length,Market leader,1,geometry,,
+s4_p20_fade_prototype,dE,Stepan prototype,6.12,printed,6.1147,
+s4_p20_fade_prototype,dE error bar half-length,Stepan prototype,1,geometry,,
+s4_p20_fade_prototype,dE,DI water,3.41,printed,3.4074,
+s4_p20_fade_prototype,dE error bar half-length,DI water,1,geometry,,

@@ -1,0 +1,5 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s4_p21_foam_prototype,Foam volume (mL),Market leader,800.3164,geometry,,
+s4_p21_foam_prototype,Foam volume (mL),Stepan prototype,820.2526,geometry,,
+s4_p21_foam_prototype,Half life (s),Market leader,441,printed,439.0763,
+s4_p21_foam_prototype,Half life (s),Stepan prototype,308,printed,306.1685,

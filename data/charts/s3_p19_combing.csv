@@ -1,0 +1,5 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s3_p19_combing,Combing force (gf),SLES/CAPB 14% (active ratio 2:1),204.8859,geometry,,
+s3_p19_combing,Combing force (gf),STEPANBLEND ASF/MB,72.9318,geometry,,
+s3_p19_combing,Combing force (gf),Commercial sulfated shampoo,47.1801,geometry,,
+s3_p19_combing,Combing force (gf),Commercial sulfate-free shampoo,17.1051,geometry,,

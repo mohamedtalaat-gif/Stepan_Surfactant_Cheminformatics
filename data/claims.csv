@@ -1,0 +1,38 @@
+claim_id,deck,page,topic,statement,value,unit,printed_text
+s1_p07_1,S1,7,market,"AOS share of new soap, bath and hair launches in North America grew about 4% a year over 2018-2024",4,% per year,"Period 2018-2024, AOS 4% annual growth"
+s1_p08_2,S1,8,market,"Europe projection 2024-2028: AOS growth hypothesis equal to North America (4%), or less (1%, 2%)",4,% per year,Projection 2024-2028
+s1_p11_3,S1,11,product,"BIO-TERGE AS-40 HASB: active 38.5%, use level 4-12%, ISO 16128 NOI/NOC 0.59",0.59,index,ISO 16128 Score 0.59
+s1_p11_4,S1,11,mildness,SLES-2 used as a benchmark: relative mildness by Zein test is 58,58,Zein score,Relative Mildness through Zein test is 58
+s1_p14_5,S1,14,formulation,"AOS with AMPHOSOL DM/MB gives equal viscosity with minor salt, workable at 8-9% actives, formulation chassis naturality above 90%",90,% naturality (minimum),Formulation Chassis Naturality > 90%
+s1_p18_6,S1,18,formulation,"AOS with CAPB and NINOL CAA gives equal viscosity with minor salt, workable at 9-10% actives, naturality above 90%",90,% naturality (minimum),Formulation Chassis Naturality > 90%
+s1_p19_7,S1,19,product,"NINOL CAA: ISO 16128 NOI 0.86, Zein 59, use level 0.25-2.0%",0.86,index,ISO 16128 Score 0.86
+s1_p20_8,S1,20,formulation,NINOL CAA replaces cocamide MEA and PEG-40 HCO in the chassis and reaches the target viscosity with a lower surfactant actives level (13% against 15%),13,% actives,Surfactant actives level 15 / 15 / 13
+s1_p32_9,S1,32,formulation,Optimal viscosity with NINOL CAA is reached with 1.8% salt added,1.8,% NaCl,"Optimal viscosity with NINOL CAA with 1,8% of Salt added"
+s2_p05_10,S2,5,market,"Hair care: USD 92,753 million global retail value in 2025, 4.0% current-year growth (Euromonitor 2025)",92753,USD million,Euromonitor 2025
+s2_p06_11,S2,6,market,"Three trends named: skinification, personalisation and efficacy, premiumisation",,,Trends shifting to new era of hair care: Smart & Personal
+s2_p09_12,S2,9,product,"ALPHA-STEP PC-48: 94% bio-based, readily biodegradable, CleanGredients listed; actives 37-40%",94,% bio-based,94% Bio-based
+s2_p10_13,S2,10,foam,"Ross-Miles foam height in 3,000 ppm hard water, 0.2% active at 25 C: ALPHA-STEP PC-48 14.3 cm at 0 min and 13.5 cm after 5 min; sodium laureth sulfate 8.55 and 7.35 cm",14.3,cm,Ross-Miles foam test
+s2_p14_14,S2,14,formulation,ALPHA-STEP PC-48 with AMPHOSOL DM/MB reaches equal viscosity at 11% actives with formulation chassis naturality above 95%,95,% naturality (minimum),Formulation Chassis Naturality > 95%
+s2_p22_15,S2,22,sustainability,Formulation 1443 has NOC 0.86 as a concentrate and 0.96 when diluted 1:3 with tap water (ISO 16128),0.96,index,NOC of 0.86 and an NOC of 0.96 when diluted at a 1:3 ratio
+s3_p04_16,S3,4,product,"STEPANBLEND ASF/MB: 39% solids, pH 11.2 (10% aqueous), viscosity 17,000 cps at 20 C, density 1.05, freezes below 5 C; dilute 14-39% in water",39,% solids,Technical data tiles
+s3_p05_17,S3,5,claims,Finished formula with ISO 16128 naturality up to 97%; M.C.I.I. below 0.25 on a human patch test; low Zein score,97,% naturality (maximum),ISO 16128 naturality up to 97%
+s3_p06_18,S3,6,sustainability,The ASF/MB blend itself has ISO 16128 NOC 0.81; water counts as NOI 1 in Stepan's calculation,0.81,index,"ISO 16128 NOC 0,81"
+s3_p07_19,S3,7,formulation,"Three starting formulas: 5% actives (14% blend, NOC 0.97), 10% actives (27% blend, NOC 0.95), 14% actives (39% blend, NOC 0.92)",,,5% / 10% / 14% actives
+s3_p19_20,S3,19,combing,"Dry combing force after 15 washes is about 65% lower for ASF/MB than for SLES/CAPB (2:1) at the same washing cycles; six tresses, ten assessments each, 60 data points per prototype",65,% lower,+65 %
+s3_p21_21,S3,21,mildness,"48-hour human occlusive patch test, single application on 21 subjects, 10% actives (27% blend) further diluted to 5% in water: M.C.I.I. below 0.25, classed non-irritating",0.25,M.C.I.I. (maximum),M.C.I.I. below 0.25
+s3_p23_22,S3,23,colour,After 15 washes the colour change dE of ASF/MB is about 32% lower than the commercial sulfated shampoo and about 8% lower than the commercial sulfate-free shampoo,32,% lower,+32 % / +8 %
+s4_p09_23,S4,9,colour,"BIO-TERGE AS-40 HASB and STEPAN-MILD LSB/MB show the least colour loss of the anionics tested, even against a primary/secondary system",,,greatest color respect
+s4_p16_24,S4,16,product,"Amine oxides become cationic below pH 6.5, give antistatic properties and are compatible with quats",6.5,pH,"pH < 6,5 Cationic charge"
+s4_p21_25,S4,21,foam,Colour-care prototype: similar foam volume and slightly lower foam stability than a market leader (shaker method),,,Similar foam volume; slightly lower foam stability
+s6_p03_26,S6,3,regulatory,BTAC and CTAC have been restricted since August 2014 in rinse-off hair products and leave-on hair and face products; ester quats carry no use restriction,2014,year,Restricted since 08/2014
+s6_p05_27,S6,5,conditioning,Stepantex PA 85-G is described as equivalent to BTAC in a half-head test with three panellists,,,Equivalent to BTAC
+s6_p08_28,S6,8,conditioning,"STEPANQUAT GA 90 with STEPAN-MILD GCC gives a close match to BTAC (technical hairdresser, five panellists)",,,give a close match to BTAC
+s6_p09_29,S6,9,conditioning,A conditioner with STEPAN-MILD L3 shows improvement in wet and dry combing and slight improvement in wet detangling (six panellists),,,shows improvement in wet and dry combing
+s7_p05_30,S7,5,market,"More than 50% of consumers trust labels with locally sourced, environmentally friendly and natural claims (Euromonitor 2019)",50,% (minimum),>50%
+s7_p05_31,S7,5,market,58% of companies plan sustainable sourcing claims and 70% environmentally friendly claims (Euromonitor 2022),58,%,58% / 70%
+s7_p05_32,S7,5,market,68% of consumers say that doing things that benefit the environment makes them feel happy (Mintel 2022); 27% seek natural ingredients in regular hair care (Euromonitor 2022),68,%,68% / 27%
+s7_p08_33,S7,8,formulation,"Top three issues for formulators of sustainable products: lack of smooth and soft feel, higher use levels for similar performance, difficulty to formulate",,,"Stepan Market Research Study, 2021"
+s7_p12_34,S7,12,product,STEPANQUAT Soleil: ISO 16128 score 0.88 on biorenewable carbon excluding balance water and impurities; 100% actives; non-GMO EU-grown sunflower oil,0.88,index,ISO 16128 Score* 0.88
+s7_p14_35,S7,14,method,"Claim substantiation matrix: smoothness by scanning electron microscopy, build-up by rubine dye test, combing by Dia-Stron MTT690, shine by BossaNova SAMBA, flyaway and volume by BossaNova BOLERO",,,Claim Substantiation table
+s7_p18_36,S7,18,combing,Wet combing on three tresses with ten comb-throughs each: STEPANQUAT Soleil is equal to or outperforms BTAC,,,STEPANQUAT Soleil is equal to/or outperforms BTAC
+s7_p23_37,S7,23,rheology,"STEPANQUAT Soleil provides the target viscosity of conditioners and masks at 2-5% cetearyl alcohol, with a gradual thickening pattern",2-5,% cetearyl alcohol,target viscosity for conditioners and masks at 2-5% cetearyl alcohol

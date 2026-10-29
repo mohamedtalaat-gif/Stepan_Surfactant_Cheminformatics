@@ -1,0 +1,10 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s1_p17_zein_betaines,Single surfactants,SLES-2,58,printed,57.9179,
+s1_p17_zein_betaines,Single surfactants,STEPANOL WA-EXTRA-HA (SLS),100,printed,99.8966,
+s1_p17_zein_betaines,Single surfactants,AMPHOSOL CG-UN,31,printed,31.1684,
+s1_p17_zein_betaines,Single surfactants,AMPHOSOL DM/MB,6,printed,6.3915,
+s1_p17_zein_betaines,Single surfactants,AMPHOSOL CDB-HP-E,3,printed,2.7617,
+s1_p17_zein_betaines,Combinations at 2:1,SLES-2 & CAPB,35,printed,34.9622,
+s1_p17_zein_betaines,Combinations at 2:1,STEPANOL WA-EXTRA-HA & AMPHOSOL DM/MB,47,printed,46.6163,
+s1_p17_zein_betaines,Combinations at 2:1,BIO-TERGE AS-40 HASB & AMPHOSOL DM/MB,37,printed,36.7229,
+s1_p17_zein_betaines,Combinations at 2:1,STEPAN-MILD LSB/MB & AMPHOSOL DM/MB,33,printed,32.8662,

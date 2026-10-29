@@ -1,0 +1,9 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s4_p09_fade_primary,dE,SLES (reference),8.71,printed,8.7082,
+s4_p09_fade_primary,dE error bar half-length,SLES (reference),0.9985,geometry,,
+s4_p09_fade_primary,dE,SLES/CAPB 2:1,7.5,printed,7.5006,
+s4_p09_fade_primary,dE error bar half-length,SLES/CAPB 2:1,1.0009,geometry,,
+s4_p09_fade_primary,dE,STEPAN-MILD LSB,6.4,printed,6.3999,
+s4_p09_fade_primary,dE error bar half-length,STEPAN-MILD LSB,1.0009,geometry,,
+s4_p09_fade_primary,dE,BIO-TERGE AS-40 HASB (AOS),6.09,printed,6.0934,
+s4_p09_fade_primary,dE error bar half-length,BIO-TERGE AS-40 HASB (AOS),0.9985,geometry,,

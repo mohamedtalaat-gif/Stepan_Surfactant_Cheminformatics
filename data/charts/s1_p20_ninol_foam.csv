@@ -1,0 +1,7 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s1_p20_ninol_foam,Foam volume (mL),PEG-40 HCO chassis,871.9619,raster,,raster
+s1_p20_ninol_foam,Foam volume (mL),NINOL CAA chassis,892.193,raster,,raster
+s1_p20_ninol_foam,Foam volume (mL),CMEA + PEG-40 HCO chassis,834.39,raster,,raster
+s1_p20_ninol_foam,Half life (s),PEG-40 HCO chassis,283.9931,raster,,raster
+s1_p20_ninol_foam,Half life (s),NINOL CAA chassis,295.6275,raster,,raster
+s1_p20_ninol_foam,Half life (s),CMEA + PEG-40 HCO chassis,280.0828,raster,,raster

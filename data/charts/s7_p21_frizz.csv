@@ -1,0 +1,13 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s7_p21_frizz,BTAC,3A,0.2567,geometry,,
+s7_p21_frizz,BTAC,3B1,2.1695,geometry,,
+s7_p21_frizz,BTAC,3B2,2.2845,geometry,,
+s7_p21_frizz,BTAC,4A,3.1115,geometry,,
+s7_p21_frizz,CETAC,3A,0.2711,geometry,,
+s7_p21_frizz,CETAC,3B1,1.2562,geometry,,
+s7_p21_frizz,CETAC,3B2,2.6009,geometry,,
+s7_p21_frizz,CETAC,4A,4.1182,geometry,,
+s7_p21_frizz,STEPANQUAT Soleil,3A,0.4868,geometry,,
+s7_p21_frizz,STEPANQUAT Soleil,3B1,2.6656,geometry,,
+s7_p21_frizz,STEPANQUAT Soleil,3B2,4.3842,geometry,,
+s7_p21_frizz,STEPANQUAT Soleil,4A,6.6565,geometry,,

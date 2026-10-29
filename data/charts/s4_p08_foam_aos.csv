@@ -1,0 +1,5 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s4_p08_foam_aos,Foam volume (mL),SLES,1039.7373,geometry,,
+s4_p08_foam_aos,Foam volume (mL),BIO-TERGE AS-40 HASB (AOS),1059.7914,geometry,,
+s4_p08_foam_aos,Half life (s),SLES,428.4391,geometry,,
+s4_p08_foam_aos,Half life (s),BIO-TERGE AS-40 HASB (AOS),348.0424,geometry,,

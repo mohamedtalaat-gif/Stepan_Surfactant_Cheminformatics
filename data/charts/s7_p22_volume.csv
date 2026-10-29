@@ -1,0 +1,13 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s7_p22_volume,BTAC,3A,-24.0535,geometry,,
+s7_p22_volume,BTAC,3B1,-7.5909,geometry,,
+s7_p22_volume,BTAC,3B2,-13.7644,geometry,,
+s7_p22_volume,BTAC,4A,17.7127,geometry,,
+s7_p22_volume,CETAC,3A,-20.8524,geometry,,
+s7_p22_volume,CETAC,3B1,4.6798,geometry,,
+s7_p22_volume,CETAC,3B2,-29.6172,geometry,,
+s7_p22_volume,CETAC,4A,-35.7145,geometry,,
+s7_p22_volume,STEPANQUAT Soleil,3A,-54.7684,geometry,,
+s7_p22_volume,STEPANQUAT Soleil,3B1,-44.6317,geometry,,
+s7_p22_volume,STEPANQUAT Soleil,3B2,-25.7302,geometry,,
+s7_p22_volume,STEPANQUAT Soleil,4A,-50.9576,geometry,,

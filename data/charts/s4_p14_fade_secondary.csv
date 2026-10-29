@@ -1,0 +1,9 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s4_p14_fade_secondary,dE,SLES/CAPB 2:1,7.5,printed,7.5015,
+s4_p14_fade_secondary,dE error bar half-length,SLES/CAPB 2:1,0.9993,geometry,,
+s4_p14_fade_secondary,dE,CAPB,5.67,printed,5.6725,
+s4_p14_fade_secondary,dE error bar half-length,CAPB,1.0013,geometry,,
+s4_p14_fade_secondary,dE,AMPHOSOL DM,5.8,printed,5.7936,
+s4_p14_fade_secondary,dE error bar half-length,AMPHOSOL DM,0.9993,geometry,,
+s4_p14_fade_secondary,dE,AMPHOSOL CDB HP-E,6.73,printed,6.7344,
+s4_p14_fade_secondary,dE error bar half-length,AMPHOSOL CDB HP-E,0.9993,geometry,,

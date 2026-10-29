@@ -1,0 +1,165 @@
+deck,page,title,kind,summary,refs,notebook
+S1,1,When Sulfate Free Is the Economical Solution,title,Opening slide of the AOS session.,,s1_aos_economics
+S1,2,What are the main challenges you are facing when formulating sulfate-free?,poll,Live audience poll; the answers are not in the deck.,,s1_aos_economics
+S1,3,Agenda,agenda,"Drivers of change in personal care, existing challenges in meeting consumer needs, an innovative approach to the transition, and efficient formulation techniques.",,s1_aos_economics
+S1,4,Media and social attention lead to greater scrutiny,diagram,"Retailer banned-ingredient lists, social media and government regulation as drivers; consumers may avoid ingredients with bad press.",,s1_aos_economics
+S1,5,"EU raises standards through EUDR and a 1,4-dioxane limit",timeline,"Timeline 2021-2028 of the 1,4-dioxane restriction and the deforestation-free regulation.",timeline:S1 p5,s1_aos_economics
+S1,6,Turn challenges into opportunities,table,"Palm-based SLES/SLS carry a cost premium under EUDR and the 1,4-dioxane limit; coconut and petrochemical routes are exempt. NINOL CAA and BIO-TERGE AS-40 HASB are recommended.",table:s1_p06_cost_premium,s1_aos_economics
+S1,7,AOS gaining momentum: North America,chart,"Share of new launches containing each anionic, 2010-2024; AOS overtakes SLES in 2024.",chart:s1_p07_launches_na,s1_aos_economics
+S1,8,AOS gaining momentum: Europe and projection,chart,"Same measure for Europe with a 2024-2028 AOS projection at 4%, 2% and 1% growth.",chart:s1_p08_launches_eu,s1_aos_economics
+S1,9,Formulating sulfate-free cleansers can be challenging,diagram,"Sulfate-based systems (primary plus secondary) against modern sulfate-free systems (two or more co-surfactants): viscosity response, clarity and stability, development time.",,s1_aos_economics
+S1,10,Ideal partners for the challenges,product,"BIO-TERGE AS-40 HASB, AMPHOSOL DM/MB and NINOL CAA introduced with INCI names.",product:as40hasb;product:dm;product:ninol,s1_aos_economics
+S1,11,Sulfate-free alternative foamer to SLES,product,"Identity card of BIO-TERGE AS-40 HASB: actives, use level, ISO 16128 score, claims and handling.",product:as40hasb,s1_aos_economics
+S1,12,Explore the bubbly realm of sulfonate,chart,"Foam volume and half-life of SLES-2, BIO-TERGE AS-40 HASB and ALPHA-STEP PC-48 at 0.1% actives, with foam photographs and Foam Scan bubble images.",chart:s1_p12_foam_anionics,s1_aos_economics
+S1,13,Stepan's 6 formulation hacks,divider,Section divider.,,s1_aos_economics
+S1,14,Sulfonate thickening hack 1: AMPHOSOL DM/MB,chart,Salt curves of SLES-2/CAPB and BIO-TERGE AS-40 HASB with CAPB or AMPHOSOL DM/MB at 8-10% actives.,chart:s1_p14_hack1_dm_mb,s1_aos_economics
+S1,15,Specialty secondary surfactants,product,AMPHOSOL DM/MB and AMPHOSOL CDB-HP-E identity data.,product:dm;product:cdbhpe,s1_aos_economics
+S1,16,Specialty secondary surfactants: foam and viscosity,chart,"Foam bars and half-life of four secondary surfactants, plus viscosity against salt for three betaines with AOS.",chart:s1_p16_betaine_foam;chart:s1_p16_betaine_visc,s1_aos_economics
+S1,17,Relative mildness of betaines,chart,Zein scores of betaines and of primary/secondary combinations at a 2:1 actives ratio.,chart:s1_p17_zein_betaines,s1_aos_economics
+S1,18,Sulfonate thickening hack 2: NINOL CAA,chart,"Salt curves with NINOL CAA at 0.25 parts, at 9% and 10.8% actives.",chart:s1_p18_hack2_ninol,s1_aos_economics
+S1,19,"NINOL CAA, a naturally derived aesthetic enhancer",product,Identity card of NINOL CAA.,product:ninol,s1_aos_economics
+S1,20,Non-ionic secondary surfactants,table,"Three chassis (cocamide MEA + PEG-40 HCO, PEG-40 HCO, NINOL CAA) with viscosity against NaCl and foaming power.",formula:s1_chassis_cmea;formula:s1_chassis_peg40;formula:s1_chassis_ninol;chart:s1_p20_ninol_visc;chart:s1_p20_ninol_foam,s1_aos_economics
+S1,21,NINOL CAA powerful viscosity builder,photo,"Five photographs of thickening a water-thin base with NINOL CAA and over 2% oil and fragrance, without added salt.",,s1_aos_economics
+S1,22,Prototype details: Boundless AOS base,divider,Section divider.,,s1_aos_economics
+S1,23,Prototypes design,diagram,"Boundless base No. 1610 feeds economy and prestige hand soap, body wash and shampoo prototypes.",,s1_aos_economics
+S1,24,"Boundless base, formulation 1610",formula,"BIO-TERGE AS-40 HP 53.3% with AMPHOSOL HCG-HP 41.0%; viscosity 45,000-75,000 cPs.",formula:s1_base_1610,s1_aos_economics
+S1,25,Economy hand soap,formula,"ELN 5388-175-102, total actives 7.0%.",formula:s1_eco_handsoap,s1_aos_economics
+S1,26,Prestige hand soap,formula,"ELN 5388-175-103, total actives 12.0%.",formula:s1_prestige_handsoap,s1_aos_economics
+S1,27,Economy body wash,formula,"ELN 5388-175-104, total actives 10.0%.",formula:s1_eco_bodywash,s1_aos_economics
+S1,28,Prestige body wash,formula,"ELN 5388-175-105, total actives 15.0%.",formula:s1_prestige_bodywash,s1_aos_economics
+S1,29,Economy shampoo,formula,"ELN 5388-175-106, total actives 10.0%.",formula:s1_eco_shampoo,s1_aos_economics
+S1,30,Prestige shampoo,formula,"ELN 5388-175-107, total actives 15.0%.",formula:s1_prestige_shampoo,s1_aos_economics
+S1,31,Comprehensive evaluation of Stepan additives,divider,Section divider.,,s1_aos_economics
+S1,32,Thickening hacks with Stepan additives,chart,"Salt curves with NINOL CAA, STEPAN-MILD L3-G/MB and STEPAN-MILD GCC-FL/MB at 0.25 parts.",chart:s1_p32_additives,s1_aos_economics
+S1,33,Specialty additive surfactants,product,"STEPAN-MILD GCC/MB, GCC-FL/MB and L3-G/MB identity data.",product:gcc;product:gccfl;product:l3,s1_aos_economics
+S1,34,Stepan additives: a matter of choice,table,"Star ratings of four additives for viscosity, foam, conditioning, process and sensory attributes.",table:additive_ratings,s1_aos_economics
+S1,35,Section photograph,photo,Decorative laboratory photograph before the formulation inspirations.,,s1_aos_economics
+S1,36,Formulation inspirations,divider,Section divider.,,s1_aos_economics
+S1,37,"Alpha olefin sulfonate, you rock!",photo,"Three finished concepts: Honey Time shampoo (1492), concentrate to dilute (1443, 100 ml concentrate with 300 ml tap water) and powder shampoo (1488).",formula:s2_1443;formula:s2_1488,s1_aos_economics
+S1,38,Stepan offers global development support,diagram,"Development centres: Northfield IL (headquarters), Voreppe France, Mexico City / Ecatepec, Jurong Island Singapore, Bogota, Sao Paulo.",,s1_aos_economics
+S1,39,Thank you,closing,Closing slide with trademark list and the general disclaimer.,,s1_aos_economics
+S2,1,Mastering modern hair care,title,Opening slide: formulate for the trends that matter.,,s2_modern_hair_care
+S2,2,Agenda and objectives,agenda,"Global hair-care market dynamics, popular shampoo claims, aligning development with consumer needs; market insight, science-backed substantiation, empowered formulation.",,s2_modern_hair_care
+S2,3,Does the consumer perceive sulfate-free as natural?,poll,Live audience poll; results are not in the deck.,,s2_modern_hair_care
+S2,4,Exploring the world of modern hair care,divider,Section divider.,,s2_modern_hair_care
+S2,5,Global hair care is growing,chart,"Retail value and current-year growth of ten beauty categories (Euromonitor 2025); hair care is the second largest at USD 92.8 billion, growing 4.0%.",chart:s2_p05_market,s2_modern_hair_care
+S2,6,Trends: smart and personal,diagram,"Skinification, personalisation and efficacy, premiumisation.",,s2_modern_hair_care
+S2,7,"Formulating for moisturising, anti-static and damaged hair",divider,Section divider.,,s2_modern_hair_care
+S2,8,Formulating for top shampoo claims,diagram,"Consumer need to claim to substantiated ingredient: hair breakage, moisture retention, static reduction.",,s2_modern_hair_care
+S2,9,The chemistry behind ALPHA-STEP PC-48,product,Sodium methyl 2-sulfolaurate with disodium 2-sulfolaurate; ester group and steric hindrance of the sulfonic group explain hard-water tolerance.,product:pc48,s2_modern_hair_care
+S2,10,Hard-water tolerance and sensory evaluation,chart,"Ross-Miles foam height in 3,000 ppm hard water and an eight-attribute panel profile in 1,000 ppm hard water.",chart:s2_p10_foam_sensory,s2_modern_hair_care
+S2,11,Pop-up video 1,video,Placeholder for an embedded video; no data on the slide.,,s2_modern_hair_care
+S2,12,Hydration and anti-static claims,chart,"Moisture loss of treated tresses in a 45 C oven, and photographs of static flyaways.",chart:s2_p12_moisture,s2_modern_hair_care
+S2,13,Damaged hair care routines,chart,Hair breakage after flat ironing and water loss while blow drying.,chart:s2_p13_breakage_drying,s2_modern_hair_care
+S2,14,Sulfonate thickening hack,chart,Salt curves of SLES-2/CAPB and ALPHA-STEP PC-48 with CAPB (2:1 and 1:2) or AMPHOSOL DM/MB.,chart:s2_p14_hack_pc48,s2_modern_hair_care
+S2,15,"Formulating for lubricity, creamy foam and mildness",divider,Section divider.,,s2_modern_hair_care
+S2,16,LATHANOL LAL COARSE/MB,product,"Sodium lauryl sulfoacetate powder, 65% active, BCI 86.",product:lal,s2_modern_hair_care
+S2,17,LATHANOL LAL COARSE/MB: rich lather,photo,Foam profile on a Dynamic Foam Analyser (DFA 100) against sodium laureth sulfate; foam generation images and a link to the Pixie Dust stories.,,s2_modern_hair_care
+S2,18,Image slide,photo,Image-only slide without text.,,s2_modern_hair_care
+S2,19,Formulating for simplicity,divider,Section divider.,,s2_modern_hair_care
+S2,20,STEPAN-MILD PCL-BA,product,"Blend of sodium lauryl sulfoacetate and sodium methyl 2-sulfolaurate, 23% active.",product:pclba,s2_modern_hair_care
+S2,21,Specialty primary foamers,chart,"Viscosity building of ALPHA-STEP PC-48, STEPAN-MILD LSB/MB and PCL-BA with CAPB or AMPHOSOL DM; foam photographs.",chart:s2_p21_primary_foamers,s2_modern_hair_care
+S2,22,Formulation inspiration: AOS-based concentrated shower gel (1443),formula,Full ingredient list with percentages.,formula:s2_1443,s2_modern_hair_care
+S2,23,Formulation inspiration: Gentle cleansing body wash (1363),formula,Full ingredient list with percentages.,formula:s2_1363,s2_modern_hair_care
+S2,24,Formulation inspiration: Shower Caresse (1487),formula,Full ingredient list with percentages.,formula:s2_1487,s2_modern_hair_care
+S2,25,Formulation inspiration: Silky foaming hand soap (1501),formula,Full ingredient list with percentages.,formula:s2_1501,s2_modern_hair_care
+S2,26,Formulation inspiration: Powder milk foam (1520),formula,Full ingredient list with percentages.,formula:s2_1520,s2_modern_hair_care
+S2,27,Formulation inspiration: Choco Delight powder shampoo (1488),formula,Full ingredient list with percentages.,formula:s2_1488,s2_modern_hair_care
+S2,28,Formulation inspiration: Sparkli-Bubbli-boo powder wash (1374),formula,Full ingredient list with percentages.,formula:s2_1374,s2_modern_hair_care
+S2,29,Thank you,closing,Closing slide with trademark notice.,,s2_modern_hair_care
+S3,1,STEPANBLEND ASF/MB,title,"Ready, easy, sulfate free.",,s3_stepanblend_asf_mb
+S3,2,Agenda,agenda,"One blend and endless formulas; foaming and viscosity building; colour care, combability and mildness; key take-aways.",,s3_stepanblend_asf_mb
+S3,3,"Empowering formulators: one blend, endless formulas",divider,Section divider.,,s3_stepanblend_asf_mb
+S3,4,STEPANBLEND ASF/MB technical data,product,"RSPO mass-balance, 39% solids, pH 11.2, 17,000 cps, density 1.05, freeze point below 5 C; free from sulfated surfactants, DEA, EO and preservatives.",product:asfmb,s3_stepanblend_asf_mb
+S3,5,Multiple reasons to go naturally simple,diagram,"Shorter development, less inventory, shorter production time, no salt added, one blend for many formats, gentle and claim-ready; naturality up to 97%.",claim:s3_p05,s3_stepanblend_asf_mb
+S3,6,A ready-to-dilute blend of chosen surfactants,diagram,"Four surfactants: AMPHOSOL DM/MB (coco-betaine), BIO-TERGE AS-40 HASB (sodium C14-16 olefin sulfonate), decyl glucoside, NINOL CAA; blend NOC 0.81.",product:asfmb,s3_stepanblend_asf_mb
+S3,7,"One simple blend, endless formulas",diagram,"Hand wash 5% actives (14% blend, NOC 0.97), shower gel 10% actives (27% blend, NOC 0.95), shampoo 14% actives (39% blend, NOC 0.92).",formula:s3_handwash;formula:s3_showergel;formula:s3_shampoo,s3_stepanblend_asf_mb
+S3,8,Formulating for foaming and viscosity building,divider,Section divider.,,s3_stepanblend_asf_mb
+S3,9,Maximising foam,chart,"Foam Scan at 10% actives: volume, half-life and median bubble radius against a sulfate-based shower gel.",chart:s3_p09_foam,s3_stepanblend_asf_mb
+S3,10,Maximising viscosity,chart,"Viscosity against added salt for ASF/MB at 5, 10, 12 and 14% actives and SLES/CAPB, with the hand wash, shower gel and shampoo viscosity bands.",chart:s3_p10_salt_curves,s3_stepanblend_asf_mb
+S3,11,Formulation inspirations,divider,Section divider.,,s3_stepanblend_asf_mb
+S3,12,"Hand wash, made easy",formula,"Formula, process, pH 5.3, 1,690 cP.",formula:s3_handwash,s3_stepanblend_asf_mb
+S3,13,"Shower gel, made easy",formula,"Formula, process, pH 5.4, 4,020 cP.",formula:s3_showergel,s3_stepanblend_asf_mb
+S3,14,"Shampoo, made easy",formula,"Formula, process, pH 5.4, 13,200 cP.",formula:s3_shampoo,s3_stepanblend_asf_mb
+S3,15,Pop-up video,video,"Formulation No. 1541, super easy to make mild sulfate-free shampoo; video placeholder.",,s3_stepanblend_asf_mb
+S3,16,"Formulating for colour care, combability and mildness",divider,Section divider.,,s3_stepanblend_asf_mb
+S3,17,Formulating for top shampoo claims,diagram,"Consumer need to claim to substantiated ingredient: colour care and fade resistance, smooth hair and combability, mildness and gentle.",,s3_stepanblend_asf_mb
+S3,18,"Combing force assessment, Diastron",divider,Section divider.,,s3_stepanblend_asf_mb
+S3,19,Support gentle detangling with mild care,chart,"Dry combing maximum force after 15 washes for SLES/CAPB, ASF/MB and two commercial shampoos with conditioning polymers.",chart:s3_p19_combing,s3_stepanblend_asf_mb
+S3,20,Reviewer comment page,internal,Internal reviewer comments in the file; not reproduced here.,,s3_stepanblend_asf_mb
+S3,21,Ultra-mild cleansing validated on human skin,chart,Zein score and the M.C.I.I. irritation scale from a 48-hour occlusive patch test on 21 subjects.,chart:s3_p21_zein,s3_stepanblend_asf_mb
+S3,22,Colour fading resistance,divider,Section divider.,,s3_stepanblend_asf_mb
+S3,23,Protect coloured hair with wash longevity,chart,"dE after 5, 10 and 15 washes on red-dyed bleached tresses for three shampoos, with tress photographs.",chart:s3_p23_fade,s3_stepanblend_asf_mb
+S3,24,Key take-aways,divider,Section divider.,,s3_stepanblend_asf_mb
+S3,25,One blend with proven wins,diagram,One blend of four surfactants; high foam and viscosity; mildness; naturality; hair-care claims.,,s3_stepanblend_asf_mb
+S3,26,Thank you,closing,Closing slide with trademark notice and disclaimer.,,s3_stepanblend_asf_mb
+S4,1,Advanced color protection systems,title,Stepan solutions for vibrant hair.,,s4_color_care
+S4,2,What is the best way to achieve colour protection in shampoos?,poll,Live audience poll; results are not in the deck.,,s4_color_care
+S4,3,1. Surfactant screening,divider,"Anionics matter, and so do the amphoterics.",,s4_color_care
+S4,4,STEPAN-MILD LSB/MB,product,Identity card with chemical structures of sodium lauryl sulfoacetate and disodium laureth sulfosuccinate; BCI 64.,product:lsb,s4_color_care
+S4,5,STEPAN-MILD LSB/MB: Morning Caresse,formula,Facial cleanser formula with actives and Zein scores.,formula:s4_morning_caresse,s4_color_care
+S4,6,LATHANOL LAL Coarse/MB,product,Identity card of sodium lauryl sulfoacetate; BCI 87.,product:lal,s4_color_care
+S4,7,BIO-TERGE AS-40 HASB,product,"Identity card with structure (R = C11-C13), actives 37-39%.",product:as40hasb,s4_color_care
+S4,8,BIO-TERGE AS-40 HASB: foam,chart,Shaker foam of AOS against SLES at 0.4% active in DI water.,chart:s4_p08_foam_aos,s4_color_care
+S4,9,Colour care: primary surfactants,chart,"Colour fading dE (L*a*b*) for SLES, SLES/CAPB, STEPAN-MILD LSB and AOS with error bars.",chart:s4_p09_fade_primary,s4_color_care
+S4,10,1. Surfactant screening,divider,Section divider repeated for the amphoteric part.,,s4_color_care
+S4,11,AMPHOSOL DM/MB,product,Identity card of coco-betaine; BCI 76; no DMAPA residue.,product:dm,s4_color_care
+S4,12,Viscosity building,chart,"Salt curves of BIO-TERGE AS-40 HASB with CAPB, AMPHOSOL DM/MB or AMPHOSOL CDB-HP-E at 2:1, 10% actives.",chart:s4_p12_betaine_visc,s4_color_care
+S4,13,Formulation: Lotus Night body wash,formula,"Sulfate-free body wash, about 3,000 cP, stable for a month at 5 C and 45 C.",formula:s4_lotus_night,s4_color_care
+S4,14,Colour care: secondary surfactants,chart,"dE for SLES/CAPB, CAPB, AMPHOSOL DM and AMPHOSOL CDB HP-E.",chart:s4_p14_fade_secondary,s4_color_care
+S4,15,AMMONYX LO and AMMONYX CSO,product,Identity cards of the amine oxides; BCI 86 and 87; cationic below pH 6.5.,product:ammlo;product:ammcso,s4_color_care
+S4,16,AMMONYX LO and CSO: benefits from skin to hair,diagram,Drawn structure of an amine oxide at pH above and below 6.5 with the list of benefits.,,s4_color_care
+S4,17,Colour care: AMMONYX LO,chart,"dE for SLES, SLES/CAPB, CAPB and AMMONYX LO.",chart:s4_p17_fade_ammonyx,s4_color_care
+S4,18,2. Advanced colour protection systems,divider,Anionic-free base and cleansing conditioner.,,s4_color_care
+S4,19,Formulation inspiration 1605,formula,"Sulfate-free colour-care shampoo built from LSB/MB, AS-40 HASB, DM/MB, L3-G/MB and GCC/MB.",formula:s4_1605,s4_color_care
+S4,20,Colour care: Stepan prototype,chart,dE of the prototype against a market leader and DI water.,chart:s4_p20_fade_prototype,s4_color_care
+S4,21,Foam evaluation,chart,Shaker foam volume and half-life of the prototype against a market leader.,chart:s4_p21_foam_prototype,s4_color_care
+S4,22,2. Advanced colour protection systems,divider,Section divider.,,s4_color_care
+S4,23,Very mild anionic-free chassis,formula,Amine oxide AMMONYX CSO with AMPHOSOL DM/MB and two emollient boosters.,formula:s4_anionic_free,s4_color_care
+S4,24,Cleansing conditioner with colour-care benefits,formula,"AMMONYX LO, GCC/MB, L3-G/MB, STEPANQUAT GA 90/MB, decyl glucoside and oils.",formula:s4_cleansing_conditioner,s4_color_care
+S4,25,Colour care: next-generation systems,chart,"dE of SLES/CAPB, market leader, anionic-free chassis, cleansing conditioner and DI water.",chart:s4_p25_fade_nextgen,s4_color_care
+S4,26,Contacts,contacts,Withheld in this copy: personal contact details; not reproduced here.,,s4_color_care
+S6,1,Hair conditioning,title,Opening slide.,,s6_hair_conditioning
+S6,2,Ester quats in hair conditioners,divider,Substitutes for BTAC and CTAC.,,s6_hair_conditioning
+S6,3,"BTAC, CTAC and ester quats",diagram,"Structures of BTAC, CTAC and the dipalmitoylethyl hydroxyethylammonium methosulfate ester quat; forms, uses and regulatory position.",product:btac;product:ctac;product:gamma90,s6_hair_conditioning
+S6,4,Our offer,table,"STEPANQUAT GA 90 and STEPANTEX PA 85-G: INCI, physical form, solvent, benefits and downsides.",product:gamma90;product:pa85g,s6_hair_conditioning
+S6,5,Efficient alternatives,chart,Half-head test chassis and sensory differences between PA 85-G and BTAC.,table:s6_p05_halfhead_pa85g;formula:s6_halfhead_chassis,s6_hair_conditioning
+S6,6,Conditioning boosters,divider,Bio-based emollients.,,s6_hair_conditioning
+S6,7,Conditioner boosters,diagram,"Structures and descriptions of STEPAN-MILD GCC and L3: 100% actives, 100% bio-based, van der Waals interaction with the cuticle fatty acids.",product:gcc;product:l3,s6_hair_conditioning
+S6,8,STEPAN-MILD GCC,chart,"Preliminary sensory radar of BTAC, GA 90 + GCC and BTAC + GCC across nine attributes.",chart:s6_p08_gcc_sensory,s6_hair_conditioning
+S6,9,STEPAN-MILD L3,chart,Salon half-head study with six panellists: conditioner with and without L3.,chart:s6_p09_l3_sensory,s6_hair_conditioning
+S6,10,Hair conditioner formulation,formula,"STEPANQUAT GA 90 with L3 and GCC boosters, fatty alcohols and Steareth-20, pH 4.",formula:s6_conditioner,s6_hair_conditioning
+S6,11,Cleansing conditioner formulation,formula,Amine-oxide based cleansing conditioner (the same formula as S4 p24).,formula:s4_cleansing_conditioner,s6_hair_conditioning
+S6,12,Contacts,contacts,Withheld in this copy: personal contact details; not reproduced here.,,s6_hair_conditioning
+S7,1,Sustainably sourced ingredients for haircare,title,Opening slide.,,s7_sustainable_conditioning
+S7,2,Reviewer comment page,internal,Internal reviewer comment in the file; not reproduced here.,,s7_sustainable_conditioning
+S7,3,Reviewer comment page,internal,Internal reviewer comment in the file; not reproduced here.,,s7_sustainable_conditioning
+S7,4,What are the main constraints when formulating a hair conditioner?,poll,Live audience poll; results are not in the deck.,,s7_sustainable_conditioning
+S7,5,Sustainability in beauty,statistic,"Consumer and company statistics on sustainable claims (Euromonitor 2019 and 2022, Mintel 2022).",claim:s7_p05,s7_sustainable_conditioning
+S7,6,Sustainability for brands,chart,"Regional split of respondents naming wet combing, quat replacement and green and natural claims as needs.",table:s7_p06_brand_needs,s7_sustainable_conditioning
+S7,7,Sustainability for formulators: critical needs,chart,Radar of seven formulation needs; biorenewable claims lead at 78.,table:s7_p07_formulator_needs,s7_sustainable_conditioning
+S7,8,Sustainability for formulators: top issues,diagram,"Three issues: lack of smooth soft feel, higher use level for similar performance, difficulty to formulate.",,s7_sustainable_conditioning
+S7,9,The essential you in hair care,diagram,"Consumer attitudes: acceptance, self-care, textured hair, a me mentality.",,s7_sustainable_conditioning
+S7,10,Top 10 reported hair concerns,chart,"Share of respondents reporting each concern, overall and among respondents identifying as Black or African descent.",chart:s7_p10_hair_concerns,s7_sustainable_conditioning
+S7,11,A modern hair conditioning agent,divider,Introduction of STEPANQUAT Soleil; patent pending.,,s7_sustainable_conditioning
+S7,12,Next-generation conditioning agent,product,"STEPANQUAT Soleil: ISO 16128 score 0.88, 100% active, readily biodegradable, free from silicones, preservatives, glycols and ethanol.",product:soleil,s7_sustainable_conditioning
+S7,13,Easy to use for formulators,diagram,"Liquid, 100% active, no use-level restriction, no special storage; suitable for conditioners, masks, leave-ins and styling.",,s7_sustainable_conditioning
+S7,14,Claim substantiation,table,"Instrument and output for each claim, and the standardised conditioner chassis.",formula:s7_chassis_claims,s7_sustainable_conditioning
+S7,15,Embracing myself and my hair type,diagram,"Andre Walker hair typing scale: straight (1A-1C), wavy (2A-2C), curly (3A-3C), kinky (4A-4C).",,s7_sustainable_conditioning
+S7,16,Smoothness,photo,"Scanning electron microscopy of tresses treated with STEPANQUAT Soleil, CETAC and BTAC at 2% active, 1,000x.",,s7_sustainable_conditioning
+S7,17,Smoothness: curl control,photo,"Photographs of 2B wavy hair treated at 1.35% active with the standard chassis, CTAC, BTAC and STEPANQUAT Soleil.",formula:s7_chassis_smooth,s7_sustainable_conditioning
+S7,18,No tangles,chart,"Wet combing peak load on type 1C, 2A and 3A hair for five treatments, with an inset on ester quats.",chart:s7_p18_wet_combing,s7_sustainable_conditioning
+S7,19,No build-up,photo,Modified rubine dye test: eleven-step sequence showing that STEPANQUAT Soleil washes up easily.,,s7_sustainable_conditioning
+S7,20,Shine,chart,"Luster by SAMBA for untreated hair, STEPANQUAT Soleil, BTAC and CETAC.",chart:s7_p20_shine,s7_sustainable_conditioning
+S7,21,No flyaways,chart,Frizz reduction by BOLERO on four textured hair types with analysed tress images.,chart:s7_p21_frizz,s7_sustainable_conditioning
+S7,22,Volume,chart,Volume change by BOLERO on four textured hair types.,chart:s7_p22_volume,s7_sustainable_conditioning
+S7,23,Formulation guidelines: viscosity,chart,Viscosity of 2% active cationics against cetearyl alcohol level.,chart:s7_p23_viscosity_cetearyl,s7_sustainable_conditioning
+S7,24,Making a conditioner,formula,"Phases, process, pH 2.9 and 32,100 cP.",formula:s7_conditioner,s7_sustainable_conditioning
+S7,25,Making a hair mask,formula,"Phases, process, pH 2.8 and 37,800 cP.",formula:s7_mask,s7_sustainable_conditioning
+S7,26,Making a 2-in-1 shampoo,formula,"Phases, process, pH 4.5 and 28,500 cP.",formula:s7_2in1,s7_sustainable_conditioning
+S7,27,Bear to Beard: conditioning serum,formula,Anhydrous oil serum at room temperature.,formula:s7_serum,s7_sustainable_conditioning
+S7,28,Abracada'Bar: solid conditioner,formula,Solid conditioner bar made with a melt process.,formula:s7_solidbar,s7_sustainable_conditioning
+S7,29,STEPAN-MILD GCC series,product,GCC/MB and GCC-FL/MB identity data.,product:gcc;product:gccfl,s7_sustainable_conditioning
+S7,30,Tangles and shine,chart,Dry combing and shine on 2A hair for a guar-conditioned shampoo with 1% GCC/MB or GCC-FL/MB.,chart:s7_p30_gcc_tangles_shine,s7_sustainable_conditioning
+S7,31,Flyaway and volume,chart,Frizz and volume on 2A hair for the GCC series.,chart:s7_p31_gcc_frizz_volume,s7_sustainable_conditioning
+S7,32,Contacts,contacts,Withheld in this copy: personal contact details; not reproduced here.,,s7_sustainable_conditioning

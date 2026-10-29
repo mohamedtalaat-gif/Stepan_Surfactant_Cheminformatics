@@ -1,0 +1,9 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s4_p17_fade_ammonyx,dE,SLES,8.71,printed,8.7075,
+s4_p17_fade_ammonyx,dE error bar half-length,SLES,0.9992,geometry,,
+s4_p17_fade_ammonyx,dE,SLES/CAPB 2:1,7.5,printed,7.4972,
+s4_p17_fade_ammonyx,dE error bar half-length,SLES/CAPB 2:1,0.9992,geometry,,
+s4_p17_fade_ammonyx,dE,CAPB,5.67,printed,5.6686,
+s4_p17_fade_ammonyx,dE error bar half-length,CAPB,0.9992,geometry,,
+s4_p17_fade_ammonyx,dE,AMMONYX LO,3.61,printed,3.6093,
+s4_p17_fade_ammonyx,dE error bar half-length,AMMONYX LO,1.0014,geometry,,

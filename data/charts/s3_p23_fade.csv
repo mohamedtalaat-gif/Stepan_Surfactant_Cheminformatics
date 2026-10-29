@@ -1,0 +1,10 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s3_p23_fade,Commercial sulfated shampoo,5 washes,2.8107,geometry,,
+s3_p23_fade,Commercial sulfated shampoo,10 washes,4.5561,geometry,,
+s3_p23_fade,Commercial sulfated shampoo,15 washes,5.8302,geometry,,
+s3_p23_fade,Commercial sulfate-free shampoo,5 washes,2.0451,geometry,,
+s3_p23_fade,Commercial sulfate-free shampoo,10 washes,3.4157,geometry,,
+s3_p23_fade,Commercial sulfate-free shampoo,15 washes,4.3312,geometry,,
+s3_p23_fade,STEPANBLEND ASF (14% solids),5 washes,1.9755,geometry,,
+s3_p23_fade,STEPANBLEND ASF (14% solids),10 washes,3.1694,geometry,,
+s3_p23_fade,STEPANBLEND ASF (14% solids),15 washes,3.9778,geometry,,

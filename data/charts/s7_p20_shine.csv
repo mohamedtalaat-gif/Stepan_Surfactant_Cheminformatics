@@ -1,0 +1,9 @@
+chart_id,series,x,y,y_source,y_geometry,flag
+s7_p20_shine,Luster,Untreated,7.3327,geometry,,
+s7_p20_shine,Luster (error bar half-length),Untreated,0.7209,geometry,,
+s7_p20_shine,Luster,STEPANQUAT Soleil,10.2053,geometry,,
+s7_p20_shine,Luster (error bar half-length),STEPANQUAT Soleil,0.9612,geometry,,
+s7_p20_shine,Luster,BTAC,7.4092,geometry,,
+s7_p20_shine,Luster (error bar half-length),BTAC,0.6608,geometry,,
+s7_p20_shine,Luster,CETAC,8.5342,geometry,,
+s7_p20_shine,Luster (error bar half-length),CETAC,1.3872,geometry,,
