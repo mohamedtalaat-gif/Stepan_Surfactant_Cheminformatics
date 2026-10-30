@@ -3,7 +3,7 @@
 # SPDX-FileCopyrightText: 2026 Muhammad Talaat
 # SPDX-License-Identifier: MIT
 #
-# Stops the Stepan Surfactant Chemistry: a Cheminformatics Dry Lab lab that scripts/start.sh started.
+# Stops the Stepan Surfactant Cheminformatics dry lab that scripts/start.sh started.
 
 ROOT=$(cd "$(dirname "$0")/.." && pwd) || exit 1
 PID_FILE="$ROOT/.lab.pid"

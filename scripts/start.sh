@@ -3,7 +3,7 @@
 # SPDX-FileCopyrightText: 2026 Muhammad Talaat
 # SPDX-License-Identifier: MIT
 #
-# Starts the Stepan Surfactant Chemistry: a Cheminformatics Dry Lab lab on macOS or Linux. The first start downloads a Python
+# Starts the Stepan Surfactant Cheminformatics dry lab on macOS or Linux. The first start downloads a Python
 # runtime and the packages pinned in uv.lock into this folder; later starts take seconds.
 
 ROOT=$(cd "$(dirname "$0")/.." && pwd) || exit 1
@@ -28,7 +28,7 @@ fail() {
   exit 1
 }
 
-say "Stepan Surfactant Chemistry: a Cheminformatics Dry Lab"
+say "Stepan Surfactant Cheminformatics"
 say "Created by Muhammad Talaat, Faculty of Pharmacy, Ain Shams University"
 say ""
 

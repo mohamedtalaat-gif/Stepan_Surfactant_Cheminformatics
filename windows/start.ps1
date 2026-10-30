@@ -2,7 +2,7 @@
 # SPDX-FileCopyrightText: 2026 Muhammad Talaat
 # SPDX-License-Identifier: MIT
 #
-# Starts the Stepan Surfactant Chemistry: a Cheminformatics Dry Lab lab on Windows. The first start downloads a Python runtime and
+# Starts the Stepan Surfactant Cheminformatics dry lab on Windows. The first start downloads a Python runtime and
 # the packages pinned in uv.lock into this folder; later starts take seconds.
 
 $ErrorActionPreference = "Stop"
@@ -24,7 +24,7 @@ function Open-Page($address) {
     if (-not $env:LAB_NO_BROWSER) { Start-Process $address }
 }
 
-Write-Host "Stepan Surfactant Chemistry: a Cheminformatics Dry Lab"
+Write-Host "Stepan Surfactant Cheminformatics"
 Write-Host "Created by Muhammad Talaat, Faculty of Pharmacy, Ain Shams University"
 Write-Host ""
 

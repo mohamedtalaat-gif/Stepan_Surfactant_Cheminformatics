@@ -178,7 +178,7 @@ def _tile(system) -> str:
             f'<div class="sk">{system["svg"]}</div><div class="cap"><b>{html.escape(system["name"])}</b><span>{html.escape(system["caption"])}</span></div></button>')
 
 
-def page(data: dict, compact: bool = False, title: str = "Stepan Surfactant Chemistry: a Cheminformatics Dry Lab") -> str:
+def page(data: dict, compact: bool = False, title: str = "Stepan Surfactant Cheminformatics") -> str:
     """Self-contained HTML page for the given data (``systems``, ``molecules``, ``stats``, ``tile_mol_svg``)."""
     lib = (VENDOR / "3Dmol-min.js").read_text(encoding="utf-8")
     tiles = "".join(_tile(s) for s in data["systems"])
@@ -187,7 +187,7 @@ def page(data: dict, compact: bool = False, title: str = "Stepan Surfactant Chem
                   f'<div class="cap"><b>Any molecule</b><span>{len(data["molecules"])} structures in 3D</span></div></button>')
     stats = "".join(f'<div class="stat" title="{html.escape(t)}"><div class="num">{html.escape(n)}</div><div class="lab">{html.escape(l)}</div></div>' for n, l, t in data.get("stats", []))
     head = "" if compact else (
-        '<header><div class="eyebrow">PERSONAL CARE SEMINAR &middot; OCTOBER 2026 &middot; CHEMINFORMATICS DRY LAB</div><h1>Stepan Surfactant Chemistry</h1>'
+        '<header><div class="eyebrow">PERSONAL CARE SEMINAR &middot; OCTOBER 2026 &middot; DRY LAB</div><h1>Stepan Surfactant Cheminformatics</h1>'
         '<p class="lede">Every chart of six seminar decks rebuilt from the slides, every formula transcribed, every surfactant as a structure. '
         'Below, the same structures as three-dimensional models and as the aggregates they form.</p>'
         f'<div class="by">{html.escape(CREDIT_LINE)}</div>'

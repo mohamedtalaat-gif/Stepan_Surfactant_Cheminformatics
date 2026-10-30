@@ -18,5 +18,5 @@ SOURCE_NOTICE = (
 )
 
 CITATION = (
-    f"{AUTHOR}, {AFFILIATION} (ORCID {ORCID}). Stepan Surfactant Chemistry: a Cheminformatics Dry Lab, version {__version__}."
+    f"{AUTHOR}, {AFFILIATION} (ORCID {ORCID}). Stepan Surfactant Cheminformatics, version {__version__}."
 )

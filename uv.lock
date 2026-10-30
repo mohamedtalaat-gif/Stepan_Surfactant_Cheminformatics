@@ -2387,7 +2387,7 @@ wheels = [
 ]
 
 [[package]]
-name = "stepan-surfactant-chemistry-cheminformatics"
+name = "stepan-surfactant-cheminformatics"
 version = "1.0.0"
 source = { editable = "." }
 dependencies = [

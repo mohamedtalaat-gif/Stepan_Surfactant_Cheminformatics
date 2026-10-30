@@ -5,7 +5,7 @@
 import marimo
 
 __generated_with = "0.25.2"
-app = marimo.App(width="medium", app_title="Stepan Surfactant Chemistry: a Cheminformatics Dry Lab")
+app = marimo.App(width="medium", app_title="Stepan Surfactant Cheminformatics")
 
 
 @app.cell(hide_code=True)
@@ -22,7 +22,7 @@ def _():
 @app.cell(hide_code=True)
 def _(CREDIT_LINE, mo, ui):
     mo.vstack([
-        ui.header("Stepan Surfactant Chemistry", "The surfactants and conditioning actives of the personal care seminar as structures, physical chemistry, formulation arithmetic and molecular dynamics"),
+        ui.header("Stepan Surfactant Cheminformatics", "The surfactants and conditioning actives of the personal care seminar as structures, physical chemistry, formulation arithmetic and molecular dynamics"),
         ui.byline(),
         mo.md(
             """

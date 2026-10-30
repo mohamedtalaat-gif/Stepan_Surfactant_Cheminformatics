@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-title: "Stepan Surfactant Chemistry: a Cheminformatics Dry Lab"
+title: "Stepan Surfactant Cheminformatics"
 version: 1.0.0
 date-released: 2026-10-29
 abstract: "Structures, physical chemistry and formulation arithmetic built on the Stepan personal-care seminar decks: 164 slides recorded, 40 charts rebuilt from the geometry of the slides, 34 formulas transcribed with their pages, and 27 surfactant structures, in marimo notebooks that run in the browser."

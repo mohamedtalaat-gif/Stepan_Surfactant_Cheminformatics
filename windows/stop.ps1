@@ -2,7 +2,7 @@
 # SPDX-FileCopyrightText: 2026 Muhammad Talaat
 # SPDX-License-Identifier: MIT
 #
-# Stops the Stepan Surfactant Chemistry: a Cheminformatics Dry Lab lab that windows/start.ps1 started.
+# Stops the Stepan Surfactant Cheminformatics dry lab that windows/start.ps1 started.
 
 $ErrorActionPreference = "SilentlyContinue"
 $root = Split-Path -Parent (Split-Path -Parent $MyInvocation.MyCommand.Path)

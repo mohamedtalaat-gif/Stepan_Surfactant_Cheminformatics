@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "stepan-surfactant-chemistry-cheminformatics"
+name = "stepan-surfactant-cheminformatics"
 version = "1.0.0"
 description = "The surfactants and conditioning actives of the Stepan personal care seminar of October 2026 as structures, physical chemistry, formulation arithmetic and molecular dynamics: a cheminformatics dry lab with every chart re-plotted from the slides."
 readme = "README.md"

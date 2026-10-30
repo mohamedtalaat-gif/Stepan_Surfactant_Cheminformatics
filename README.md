@@ -1,4 +1,4 @@
-# Stepan Surfactant Chemistry: a Cheminformatics Dry Lab
+# Stepan Surfactant Cheminformatics
 
 **Created by Muhammad Talaat, Faculty of Pharmacy, Ain Shams University** (ORCID [0000-0002-9171-437X](https://orcid.org/0000-0002-9171-437X))
 
@@ -11,7 +11,7 @@
   </picture>
 </p>
 
-<p align="center"><a href="https://mohamedtalaat-gif.github.io/stepan-surfactant-chemistry-cheminformatics/card/">Open the interactive page</a>: turn a micelle, cut it open, switch between the sphere, the rod and the bilayer, play the molecular dynamics in which random chains assemble into micelles and a bilayer, colour the atoms by species, element or renewable carbon, and look at any of the 27 structures in 3D. GitHub does not run scripts in a README, so the interactive version is a page of its own. The same viewer is inside the notebooks, where you can also build an aggregate of your own and run a simulation of your own.</p>
+<p align="center"><a href="https://mohamedtalaat-gif.github.io/Stepan_Surfactant_Cheminformatics/card/">Open the interactive page</a>: turn a micelle, cut it open, switch between the sphere, the rod and the bilayer, play the molecular dynamics in which random chains assemble into micelles and a bilayer, colour the atoms by species, element or renewable carbon, and look at any of the 27 structures in 3D. GitHub does not run scripts in a README, so the interactive version is a page of its own. The same viewer is inside the notebooks, where you can also build an aggregate of your own and run a simulation of your own.</p>
 
 > **A note on the decks.** The six decks are Stepan Company's. Azelis published them for the participants of the Stepan personal care customer seminar of October 2026 at
 > <https://explore.azelis.com/en_GB/stepan-personal-care-customer-seminar-october-2026>. That page states no licence, so the decks are not open source and nothing in this repository gives anyone rights in them. The code, the notebooks, the models and
@@ -66,7 +66,7 @@ connection during the first start, or a security program that blocks the downloa
 
 ```bash
 git clone <address of this repository>
-cd stepan-surfactant-chemistry-cheminformatics
+cd Stepan_Surfactant_Cheminformatics
 sh scripts/start.sh                      # Windows: powershell -File windows\start.ps1
 ```
 
@@ -86,7 +86,7 @@ uv run marimo check notebooks/*.py
 uv run python scripts/audit_controls.py      # changes every control of every notebook and lists those that change nothing
 ```
 
-To host it on a server, the `Dockerfile` serves the same application: `docker build -t surfactant-chemistry .` and `docker run -p 2718:2718 surfactant-chemistry`.
+To host it on a server, the `Dockerfile` serves the same application: `docker build -t surfactant-cheminformatics .` and `docker run -p 2718:2718 surfactant-cheminformatics`.
 
 ## What is in it
 
@@ -189,5 +189,5 @@ subject to the terms under which it was supplied; see [`CONTENT_NOTICE.md`](CONT
 [`references/source_register.md`](references/source_register.md). The models, notebooks and explanatory text are my own work and are
 not Stepan statements.
 
-To cite: Muhammad Talaat, Faculty of Pharmacy, Ain Shams University (ORCID 0000-0002-9171-437X). Stepan Surfactant Chemistry: a Cheminformatics Dry Lab, version 1.0.0.
+To cite: Muhammad Talaat, Faculty of Pharmacy, Ain Shams University (ORCID 0000-0002-9171-437X). Stepan Surfactant Cheminformatics, version 1.0.0.
 The machine-readable form is `CITATION.cff`.

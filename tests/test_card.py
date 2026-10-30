@@ -95,7 +95,7 @@ def test_a_custom_aggregate_can_be_built():
 
 def test_the_page_is_self_contained_and_carries_the_data(loaded):
     page = viewer.page(loaded)
-    assert CREDIT_LINE in page and "<title>Stepan Surfactant Chemistry: a Cheminformatics Dry Lab</title>" in page
+    assert CREDIT_LINE in page and "<title>Stepan Surfactant Cheminformatics</title>" in page
     assert page.count("</script>") == 2  # the library and the page script; the data cannot close the tag
     assert not re.search(r"<script[^>]+src=|<link[^>]+href=|@import|url\(http", page)  # nothing is loaded from the network
     data = json.loads(re.search(r"const DATA=(\{.*?\});\s*\(function", page, re.DOTALL).group(1))
