@@ -9,7 +9,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="docs/card/stepan_card_animated-dark.gif">
     <img src="docs/card/stepan_card_animated-light.gif" alt="Animation: for three systems (sodium lauryl sulfate, alpha olefin sulfonate with coco-betaine, ester quat with cetyl alcohol) the cut-open atomistic model turns, while below it the coarse-grained molecular dynamics simulation plays from random chains in water to the aggregate, with the time in nanoseconds shown" width="100%">
   </picture>
-</p>
+>
 
 [Open the interactive page](https://mohamedtalaat-gif.github.io/Stepan_Surfactant_Cheminformatics/card/): turn a micelle, cut it open, switch between the sphere, the rod and the bilayer, play the molecular dynamics in which random chains assemble into micelles and a bilayer, colour the atoms by species, element or renewable carbon, and look at any of the 27 structures in 3D. GitHub does not run scripts in a README, so the interactive version is a page of its own. The same viewer is inside the notebooks, where you can also build an aggregate of your own and run a simulation of your own.
 
