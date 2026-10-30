@@ -42,8 +42,8 @@ The lab runs on your own computer; nothing is uploaded.
 
 | System | Start file | Stop file |
 |---|---|---|
-| Windows | `Start Dry Lab.bat` | `Stop Dry Lab.bat` |
 | macOS | `Start Dry Lab.command` | `Stop Dry Lab.command` |
+| Windows | `Start Dry Lab.bat` | `Stop Dry Lab.bat` |
 | Linux | run `sh scripts/start.sh` once in a terminal | `sh scripts/stop.sh` |
 
 4. The first start downloads what the lab needs (a Python runtime and the packages, about 900 MB in all) into the project folder
