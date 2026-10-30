@@ -22,7 +22,7 @@ consultant and rebuilt it so that a colleague who could not attend can work thro
 redrawn from the geometry inside the slide, every formula is transcribed with its page, every surfactant has a drawn structure,
 and every claim that can be recomputed has been. The notebooks run in the browser; nothing has to be installed by hand.
 
-| | |
+| Content | In the lab |
 |---|---|
 | Slides recorded | 164, from six decks |
 | Charts rebuilt | 40, each with its data as a CSV file in `data/charts/` |
