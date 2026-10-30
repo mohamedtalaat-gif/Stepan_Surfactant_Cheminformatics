@@ -97,7 +97,7 @@ def test_the_page_is_self_contained_and_carries_the_data(loaded):
     page = viewer.page(loaded)
     assert CREDIT_LINE in page and "<title>Stepan Surfactant Cheminformatics</title>" in page
     assert page.count("</script>") == 2  # the library and the page script; the data cannot close the tag
-    assert not re.search(r"<script[^>]+src=|<link[^>]+href=|@import|url\(http", page)  # nothing is loaded from the network
+    assert not re.search(r"<script[^>]+src=|<link(?![^>]*href=.data:)[^>]+href=|@import|url\(http", page)  # nothing is loaded from the network
     data = json.loads(re.search(r"const DATA=(\{.*?\});\s*\(function", page, re.DOTALL).group(1))
     assert len(data["systems"]) == 3 and len(data["molecules"]) == len(molecules.REGISTRY)
 
@@ -146,3 +146,18 @@ def test_the_notebook_count_on_the_page_matches_the_folder(loaded):
     n = len(list((ROOT / "notebooks").glob("*.py")))
     assert ("13" if n == 13 else str(n)) == dict((lab, num) for num, lab, _ in loaded["stats"])["notebooks"]
     assert n == 13
+
+
+def test_the_page_carries_its_own_icon(loaded):
+    import struct
+
+    def png_size(path):
+        raw = path.read_bytes()
+        assert raw[:8] == b"\x89PNG\r\n\x1a\n"
+        return struct.unpack(">II", raw[16:24])
+
+    page = viewer.page(loaded)
+    assert 'rel="icon" type="image/png" href="data:image/png;base64,' in page and 'rel="apple-touch-icon"' in page
+    assert png_size(CARD / "favicon.png") == (64, 64) and png_size(CARD / "apple-touch-icon.png") == (180, 180)
+    root = (ROOT / "docs" / "index.html").read_text(encoding="utf-8")
+    assert 'rel="icon"' in root and "card/favicon.png" in root  # the root page of the site has it too

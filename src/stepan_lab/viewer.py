@@ -9,6 +9,7 @@ needs no network.  The data are one JSON object: ``systems`` (aggregates) and ``
 
 from __future__ import annotations
 
+import base64
 import html
 import json
 from pathlib import Path
@@ -16,6 +17,17 @@ from pathlib import Path
 from .provenance import CREDIT_LINE
 
 VENDOR = Path(__file__).resolve().parents[2] / "docs" / "card" / "vendor"
+CARD = VENDOR.parent
+
+
+def icon_links() -> str:
+    """The icon of the page (a micelle, drawn by scripts/make_favicon.py) as data URIs, so that the page carries its own and the browser does not borrow another one from the same host."""
+    out = ""
+    for name, rel in (("favicon.png", "icon"), ("apple-touch-icon.png", "apple-touch-icon")):
+        f = CARD / name
+        if f.exists():
+            out += f'<link rel="{rel}" type="image/png" href="data:image/png;base64,{base64.b64encode(f.read_bytes()).decode()}">'
+    return out
 
 CSS = """
 :root{--page:#0b1020;--ink:#eef2ff;--muted:#a5b1cf;--panel:#111a30;--line:#27355a;--accent:#ff7a90;--accent2:#35d0ba;--chip:rgba(255,122,144,.12)}
@@ -211,4 +223,4 @@ def page(data: dict, compact: bool = False, title: str = "Stepan Surfactant Chem
 <section class="strip">{tiles}</section>{note}</main>"""
     theme = "" if compact else '<button class="theme" id="theme" aria-label="Switch between the dark and the light theme">Theme</button>'
     return (f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(title)}</title>'
-            f'<style>{CSS}</style></head><body>{theme}{body}<script>{lib}</script><script>const DATA={json.dumps(data, separators=(",", ":"))};{JS}</script></body></html>')
+            f'<meta name="theme-color" content="#0b1020">{icon_links()}<style>{CSS}</style></head><body>{theme}{body}<script>{lib}</script><script>const DATA={json.dumps(data, separators=(",", ":"))};{JS}</script></body></html>')
