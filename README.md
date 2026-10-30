@@ -51,13 +51,10 @@ The lab runs on your own computer; nothing is uploaded.
    few seconds and download nothing.
 5. When you have finished, double-click the stop file. To remove the lab completely, delete the folder.
 
-**Windows** may show *Windows protected your PC* because the file is not signed. Press *More info*, then *Run anyway*. If a message names `VCRUNTIME140.dll`, install the free
-[Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe) once and start again. Windows computers with an Intel or AMD processor are supported; on Windows for ARM some of
-the scientific packages have no ready-made version.
 
-**macOS** may say that Apple could not verify the file. Control-click (right-click) the start file, choose *Open*, and confirm. If
-the menu offers no *Open*, go to *System Settings, Privacy & Security* and press *Open Anyway* for the file. This is needed once. A
-second route that avoids the warning is to open *Terminal* and type `sh ` (with a space), drag the start file into the window and press Return.
+**macOS** may say that Apple could not verify the file. Control-click (right-click) the start file, choose *Open*, and confirm. If the menu offers no *Open*, go to *System Settings, Privacy & Security* and press *Open Anyway* for the file. This is needed once. A second route that avoids the warning is to open *Terminal* and type `sh ` (with a space), drag the start file into the window and press Return.
+
+**Windows** may show *Windows protected your PC* because the file is not signed. Press *More info*, then *Run anyway*. If a message names `VCRUNTIME140.dll`, install the free [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe) once and start again. Windows computers with an Intel or AMD processor are supported; on Windows for ARM some of the scientific packages have no ready-made version.
 
 If the lab does not start, the folder holds `.lab.log` (and `.lab.err.log` on Windows) with the reason. The usual causes are no internet
 connection during the first start, or a security program that blocks the downloads; start again once either is fixed.
