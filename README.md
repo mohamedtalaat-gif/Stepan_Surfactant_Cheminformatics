@@ -11,7 +11,7 @@
   </picture>
 </p>
 
-<p align="center"><a href="https://mohamedtalaat-gif.github.io/Stepan_Surfactant_Cheminformatics/card/">Open the interactive page</a>: turn a micelle, cut it open, switch between the sphere, the rod and the bilayer, play the molecular dynamics in which random chains assemble into micelles and a bilayer, colour the atoms by species, element or renewable carbon, and look at any of the 27 structures in 3D. GitHub does not run scripts in a README, so the interactive version is a page of its own. The same viewer is inside the notebooks, where you can also build an aggregate of your own and run a simulation of your own.</p>
+> align="center"><a href="https://mohamedtalaat-gif.github.io/Stepan_Surfactant_Cheminformatics/card/">Open the interactive page</a>: turn a micelle, cut it open, switch between the sphere, the rod and the bilayer, play the molecular dynamics in which random chains assemble into micelles and a bilayer, colour the atoms by species, element or renewable carbon, and look at any of the 27 structures in 3D. GitHub does not run scripts in a README, so the interactive version is a page of its own. The same viewer is inside the notebooks, where you can also build an aggregate of your own and run a simulation of your own.
 
 > **A note on the decks.** The six decks are Stepan Company's. Azelis published them for the participants of the Stepan personal care customer seminar of October 2026 at
 > <https://explore.azelis.com/en_GB/stepan-personal-care-customer-seminar-october-2026>. That page states no licence, so the decks are not open source and nothing in this repository gives anyone rights in them. The code, the notebooks, the models and
